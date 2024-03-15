@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/Kaynak Kodlar/Yeni klasör/2024-Robot-Code-new"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.server.launchMode": "Standard"
+	}
+}
